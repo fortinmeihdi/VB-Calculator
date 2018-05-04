@@ -1,0 +1,8 @@
+C:\Users\Noron\AppData\Local\Temporary Projects\PremierProjet\bin\Debug\PremierProjet.exe
+C:\Users\Noron\AppData\Local\Temporary Projects\PremierProjet\bin\Debug\PremierProjet.pdb
+C:\Users\Noron\AppData\Local\Temporary Projects\PremierProjet\bin\Debug\PremierProjet.xml
+C:\Users\Noron\AppData\Local\Temporary Projects\PremierProjet\obj\x86\Debug\PremierProjet.Resources.resources
+C:\Users\Noron\AppData\Local\Temporary Projects\PremierProjet\obj\x86\Debug\PremierProjet.vbproj.GenerateResource.Cache
+C:\Users\Noron\AppData\Local\Temporary Projects\PremierProjet\obj\x86\Debug\PremierProjet.exe
+C:\Users\Noron\AppData\Local\Temporary Projects\PremierProjet\obj\x86\Debug\PremierProjet.xml
+C:\Users\Noron\AppData\Local\Temporary Projects\PremierProjet\obj\x86\Debug\PremierProjet.pdb

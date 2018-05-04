@@ -1,0 +1,10 @@
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\bin\Debug\Calculette.exe
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\bin\Debug\Calculette.pdb
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\bin\Debug\Calculette.xml
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\obj\x86\Debug\PremierProjet.Resources.resources
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\obj\x86\Debug\Calculette.vbproj.GenerateResource.Cache
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\obj\x86\Debug\Calculette.exe
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\obj\x86\Debug\Calculette.xml
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\obj\x86\Debug\Calculette.pdb
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\obj\x86\Debug\Calculette.vbprojResolveAssemblyReference.cache
+C:\Users\Noron\Documents\Visual Studio 2010\Projects\Calculette\Calculette\obj\x86\Debug\Calculette.vbproj.CoreCompileInputs.cache
